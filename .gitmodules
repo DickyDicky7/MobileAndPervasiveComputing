@@ -1,0 +1,12 @@
+[submodule "lift-coordinate"]
+	path = lift-coordinate
+	url = https://github.com/bcluc/lift-coordinate
+[submodule "LastMileDelivery_User_FE"]
+	path = LastMileDelivery_User_FE
+	url = https://github.com/ZeVnan/LastMileDelivery_User_FE
+[submodule "MobileAndPervasiveComputing-Frontend-Shipper"]
+	path = MobileAndPervasiveComputing-Frontend-Shipper
+	url = https://github.com/DickyDicky7/MobileAndPervasiveComputing-Frontend-Shipper
+[submodule "MobileAndPervasiveComputing-Backend"]
+	path = MobileAndPervasiveComputing-Backend
+	url = https://github.com/DickyDicky7/MobileAndPervasiveComputing-Backend
