@@ -10,3 +10,9 @@
 [submodule "MobileAndPervasiveComputing-Backend"]
 	path = MobileAndPervasiveComputing-Backend
 	url = https://github.com/DickyDicky7/MobileAndPervasiveComputing-Backend
+[submodule "lift_admin"]
+	path = lift_admin
+	url = https://github.com/bcluc/lift_admin
+[submodule "shipper"]
+	path = shipper
+	url = https://github.com/DickyDicky7/shipper
